@@ -1,0 +1,37 @@
+*{
+    background-color: rgb(88, 85, 72);
+    font-family: 'Roboto Slab', serif;
+}
+.about{
+    
+    color: rgb(166, 193, 243);
+}
+#title {
+    font-size: 60px;
+}
+#title-words span {
+    color:yellow ;
+}
+
+.white {
+    color: white;
+}
+
+p.white {
+    color: white;
+}
+
+ul li {
+    color: white;
+}
+
+[href="imdb.com"] {
+    color: red;
+}
+
+.images {
+    width: auto;
+    height: 360px;
+}
+
+
